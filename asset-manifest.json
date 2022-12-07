@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MemeGenerator/static/css/main.c888d11f.css",
+    "main.js": "/MemeGenerator/static/js/main.abcede06.js",
+    "static/js/787.876f76cf.chunk.js": "/MemeGenerator/static/js/787.876f76cf.chunk.js",
+    "static/media/troll-face.png": "/MemeGenerator/static/media/troll-face.88c76b9bc4db016f8f05.png",
+    "index.html": "/MemeGenerator/index.html",
+    "main.c888d11f.css.map": "/MemeGenerator/static/css/main.c888d11f.css.map",
+    "main.abcede06.js.map": "/MemeGenerator/static/js/main.abcede06.js.map",
+    "787.876f76cf.chunk.js.map": "/MemeGenerator/static/js/787.876f76cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c888d11f.css",
+    "static/js/main.abcede06.js"
+  ]
+}
